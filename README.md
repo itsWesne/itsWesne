@@ -5,7 +5,7 @@
 </blockquote>
 
 <div style="display: inline_block"><br>
-<h2>Estou aprendendo: 📚</h2><br>
+<h2>📚 Estou aprendendo:</h2><br>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> 
@@ -14,13 +14,13 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
 </div>
-<h2>Já me aventurei: 🤠</h2><br>
+<h2>🤠 Já me aventurei:</h2><br>
 <div style="display: inline_block"><br>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40">
 </div>
 
 <div style="display: inline_block"><br>
-<h2>Ferramentas e tecnologias 🛠💻</h2><br>
+<h2>💻 Ferramentas e tecnologias:</h2><br>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </div>   
           
