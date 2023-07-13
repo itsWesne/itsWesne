@@ -1,4 +1,4 @@
-<div style="display: inline_block background: linear-gradient(to bottom, #131313, black)"><br>
+<div style="display: inline_block"><br>
 Estou aprendendo: 📚<br>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
@@ -20,6 +20,8 @@ Ferramentas e tecnologias 🛠💻<br>
           
           
           
-
+<div class="background: linear-gradient(to bottom, #131313, black)">
+          teste
+</div>
           
           
