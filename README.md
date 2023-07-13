@@ -1,9 +1,9 @@
 # **Olá, sou o Wesne!**
 <blockquote>
-   <p>É fazendo que se aprende a fazer aquilo que se deve aprender a fazer.</p>
+   <p>"É fazendo que se aprende a fazer aquilo que se deve aprender a fazer."</p>
    <cite>Aristóteles </cite>
 </blockquote>
-
+<q>Teste</q>
 
 <div style="display: inline_block"><br>
 ## Estou aprendendo: 📚<br>
