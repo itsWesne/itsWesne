@@ -11,7 +11,7 @@
 
 ## Já me aventurei: 🤠
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"> 
-<i class="devicon-unity-original"></i>
+<i class="devicon-unity-original">teste</i>
           
 
 ## Ferramentas e tecnologias 🛠💻
