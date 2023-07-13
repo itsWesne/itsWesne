@@ -15,13 +15,5 @@ Já me aventurei: 🤠<br>
 <div style="display: inline_block"><br>
 Ferramentas e tecnologias 🛠💻<br>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-</div>
-          
-          
-          
-          
-<div style="background-color: linear-gradient(to bottom, #131313, black)">
-          teste
-</div>
-          
+</div>   
           
