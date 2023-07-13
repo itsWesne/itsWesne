@@ -20,7 +20,7 @@ Ferramentas e tecnologias 🛠💻<br>
           
           
           
-<div style="background: linear-gradient(to bottom, #131313, black)">
+<div style="background-color: linear-gradient(to bottom, #131313, black)">
           teste
 </div>
           
