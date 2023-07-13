@@ -1,6 +1,9 @@
 # **Olá, sou o Wesne!**
-### > É fazendo que se aprende a fazer aquilo que se deve aprender a fazer. 
-### > Aristóteles 
+<blockquote>
+   <p>É fazendo que se aprende a fazer aquilo que se deve aprender a fazer.</p>
+   <cite>Aristóteles </cite>
+</blockquote>
+
 
 <div style="display: inline_block"><br>
 ## Estou aprendendo: 📚<br>
