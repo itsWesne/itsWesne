@@ -1,4 +1,9 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<style>
+         body{
+              background: linear-gradient(to bottom, #131313, black);
+              min-height: 100vh;
+          }         
+</style>
 
 <div style="display: inline_block"><br>
 Estou aprendendo: 📚<br>
