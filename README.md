@@ -1,5 +1,5 @@
 <blockquote>
-  É fazendo que se aprende a fazer aquilo que se deve aprender a fazer.<br/>
+  É fazendo que se aprende a fazer aquilo que se deve aprender a fazer.
   - Aristóteles
 </blockquote>
 
