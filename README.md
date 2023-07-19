@@ -1,6 +1,7 @@
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 # 💫 About Me:
 Estudante autodidata de programação.<br>A procura da primeira oportunidade na área de desenvolvimento de sistemas.<br>Atualmente estou estudando: <br><br>
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wesne) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wesnealves) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wesne/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Wesne) 
@@ -19,12 +20,9 @@ Estudante autodidata de programação.<br>A procura da primeira oportunidade na 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=itsWesne&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=itsWesne&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsWesne&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <br/>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=itsWesne&limit=5&theme=dark&combine_all_yearly_contributions=true)
