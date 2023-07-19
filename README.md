@@ -1,8 +1,7 @@
 <blockquote>
-  É fazendo que se aprende a fazer aquilo que se deve aprender a fazer.
+  É fazendo que se aprende a fazer aquilo que se deve aprender a fazer. <i>- Aristóteles</i>
 </blockquote>
-<i>- Aristóteles</i>
-
+<br>
 # 🙇‍♂️ Sobre mim:
 Estudante autodidata de programação.<br>
 A procura da primeira oportunidade na área de desenvolvimento de sistemas.
